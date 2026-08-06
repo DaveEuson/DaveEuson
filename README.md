@@ -36,6 +36,6 @@ Node-RED · Qibb · JavaScript / TypeScript · Python · C++ · Rust · FFmpeg �
 
 ## Elsewhere
 
-[Portfolio & resume](https://daveeuson.github.io/) · [LinkedIn](https://www.linkedin.com/in/daveeuson)
+[Portfolio & resume](https://daveeuson.github.io/) · [LinkedIn](https://www.linkedin.com/in/daveeusonpost/)
 
 Off-screen I make electronic music and shoot street and live-performance photography.
