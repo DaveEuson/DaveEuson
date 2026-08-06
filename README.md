@@ -11,8 +11,6 @@ I connect systems that weren't designed to talk to each other. Day to day that m
 **[AI-Powered Brand Valuation Engine](https://github.com/DaveEuson/Twelve-Labs-Brand-Detection)**
 Sponsorship auditing is normally a manual, post-event guess. This turns it into a real-time number — detects brand appearances in broadcast footage, scores prominence, and calculates media value against a benchmark :30 spot, with deep links back to the exact second for verification. Built on Qibb orchestration and Twelve Labs video AI; MAM-agnostic across Iconik and Mimir.
 
-**[Amberfin Workflow Assets](https://github.com/DaveEuson/Amberfin)**
-Production transcoding components — logo and filename burn-in during transcode, plus a locked-down Kiosk submission UI for non-technical operators.
 
 ---
 
