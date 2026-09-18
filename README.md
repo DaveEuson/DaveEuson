@@ -1,39 +1,27 @@
-# Dave Euson
+Dave Euson
 
-**Solutions Architect @ Qibb — broadcast & media workflow automation. San Diego.**
+Solutions Architect @ Qibb in San Diego. Broadcast & media workflow automation.
 
-I connect systems that weren't designed to talk to each other. Day to day that means MAM platforms, video AI, transcoding engines, and cloud services wired into pipelines that run without a human in the loop. Nights and weekends it means small hardware and desktop things that solve one problem well.
+This space is mostly for the stuff I build to explore new ideas.
 
----
+Built for the fun of it
 
-## Media & broadcast
+RigMatch<br> Which local AI model can your computer actually run? Benchmarks your installed Ollama models on your real hardware and scores each on speed, answer quality, and hardware fit. Structured as a dating game show, because a leaderboard is boring.
 
-**[AI-Powered Brand Valuation Engine](https://github.com/DaveEuson/Twelve-Labs-Brand-Detection)**
-Sponsorship auditing is normally a manual, post-event guess. This turns it into a real-time number — detects brand appearances in broadcast footage, scores prominence, and calculates media value against a benchmark :30 spot, with deep links back to the exact second for verification. Built on Qibb orchestration and Twelve Labs video AI; MAM-agnostic across Iconik and Mimir.
+Yoyu (formerly Headroom Mini)<br> A $26 desk gadget showing your Claude usage at a glance. One ESP32-S3 board, flashed from the browser over USB-C, with no terminal and no soldering. Signed OTA updates, pinned root CAs, and confirmed pairing so the token only ever reaches the device in front of you.
 
+Yoyu Zero (formerly Headroom Zero)<br> The deluxe build of the same idea, on a Raspberry Pi Zero 2 W with a full web dashboard, usage history, and a mascot who goes to sleep at night.
 
----
+easter-egg<br> My first agent skill. Hand it a doc, email, or out-of-office reply and it slips in a pop-culture reference. Fans smile and everyone else sees normal professional writing. It returns the edited text plus a "reveal" note so you know what you sent. MIT licensed.
 
-## Built for the fun of it
+Desk Rave<br> A tiny 16-bit nightclub in the corner of your screen that moves to whatever you're playing. Real FFT drives the crowd, the lights, and the DJ, instead of a looping animation faking it. 40 hand-drawn venues, and presence detection that runs entirely on-device.
 
-**[RigMatch](https://github.com/DaveEuson/RigMatch.AI)** — Which local AI model can your computer actually run? Benchmarks your installed Ollama models on your real hardware and scores each on speed, answer quality, and hardware fit. Structured as a dating game show, because a leaderboard is boring.
-
-**[Headroom Mini](https://github.com/DaveEuson/HeadroomMini)** — A $26 desk gadget showing your Claude usage at a glance. One ESP32-S3 board, flashed from the browser over USB-C — no terminal, no soldering. Signed OTA updates, pinned root CAs, and confirmed pairing so the token only ever reaches the device in front of you.
-
-**[Headroom Zero](https://github.com/DaveEuson/HeadroomZero)** — The deluxe build of the same idea: a Raspberry Pi Zero 2 W with a full web dashboard, usage history, and a mascot who goes to sleep at night.
-
-**[Desk Rave](https://github.com/DaveEuson/DeskRave)** — A tiny 16-bit nightclub in the corner of your screen that moves to whatever you're playing. Real FFT drives the crowd, the lights, and the DJ — not a looping animation faking it. 40 hand-drawn venues, and presence detection that runs entirely on-device.
-
----
-
-## Stack
+Stack
 
 Node-RED · Qibb · JavaScript / TypeScript · Python · C++ · Rust · FFmpeg · Docker · AWS · REST & webhooks · Iconik · Mimir · Avid
 
----
+Elsewhere
 
-## Elsewhere
-
-[Portfolio & resume](https://daveeuson.github.io/) · [LinkedIn](https://www.linkedin.com/in/daveeusonpost/)
+Portfolio & resume · LinkedIn
 
 Off-screen I make electronic music and shoot street and live-performance photography.
