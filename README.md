@@ -20,8 +20,5 @@ Stack
 
 Node-RED · Qibb · JavaScript / TypeScript · Python · C++ · Rust · FFmpeg · Docker · AWS · REST & webhooks · Iconik · Mimir · Avid
 
-Elsewhere
-
-Portfolio & resume · LinkedIn
 
 Off-screen I make electronic music and shoot street and live-performance photography.
